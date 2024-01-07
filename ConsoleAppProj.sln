@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PWPOM", "PWPOM\PWPOM.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PWAPI", "PWAPI\PWAPI.csproj", "{8DEEAF6F-7889-4E4D-A878-24C50311CD0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naaptol", "Naaptol\Naaptol.csproj", "{B7C4920B-05CA-497F-8D9E-C4B3A00D662C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonPOM", "AmazonPOM\AmazonPOM.csproj", "{C83F01F5-9416-49B9-BCE3-9A41967A3D84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{8DEEAF6F-7889-4E4D-A878-24C50311CD0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DEEAF6F-7889-4E4D-A878-24C50311CD0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DEEAF6F-7889-4E4D-A878-24C50311CD0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C4920B-05CA-497F-8D9E-C4B3A00D662C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C4920B-05CA-497F-8D9E-C4B3A00D662C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C4920B-05CA-497F-8D9E-C4B3A00D662C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C4920B-05CA-497F-8D9E-C4B3A00D662C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C83F01F5-9416-49B9-BCE3-9A41967A3D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C83F01F5-9416-49B9-BCE3-9A41967A3D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C83F01F5-9416-49B9-BCE3-9A41967A3D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C83F01F5-9416-49B9-BCE3-9A41967A3D84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
