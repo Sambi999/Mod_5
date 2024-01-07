@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naaptol", "Naaptol\Naaptol.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonPOM", "AmazonPOM\AmazonPOM.csproj", "{C83F01F5-9416-49B9-BCE3-9A41967A3D84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonPlaceholder", "JsonPlaceholder\JsonPlaceholder.csproj", "{46C1C7A0-BE37-4E4D-8A95-C91D77C769F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{C83F01F5-9416-49B9-BCE3-9A41967A3D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C83F01F5-9416-49B9-BCE3-9A41967A3D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C83F01F5-9416-49B9-BCE3-9A41967A3D84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C1C7A0-BE37-4E4D-8A95-C91D77C769F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C1C7A0-BE37-4E4D-8A95-C91D77C769F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C1C7A0-BE37-4E4D-8A95-C91D77C769F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C1C7A0-BE37-4E4D-8A95-C91D77C769F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
